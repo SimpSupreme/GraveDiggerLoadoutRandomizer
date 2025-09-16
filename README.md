@@ -10,5 +10,5 @@ a Python script to generate a random loadout for the Roblox game Grave/Digger
 - enjoy :3
 
 ## Credits
-Me: the actual functionality of it 
+Me: the actual functionality of it    
 Gemini 2.5 Pro: the GUI, Comments, and BAT launch file
